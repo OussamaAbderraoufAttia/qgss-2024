@@ -4,4 +4,3 @@ The Qiskit Global Summer School is a two-week intensive summer program designed 
 
 &nbsp;
 
-Register here:  https://ibm.biz/QGSS24_Blog
